@@ -1,0 +1,41 @@
+body{
+	font-family:Helvetica;
+}
+h1{
+	color:#8D1441;
+}
+h2{
+	color:#8D1441;
+}
+h3{
+	color:#8D1441;
+}
+div{
+	border: 1px #332C1E solid;
+	padding: 10px;
+	margin: 8px;
+	background: #FDF4CD;
+}
+p{
+	letter-spacing:-0.8px;
+}
+
+a, a:visited{ color: white; font-weight:bolder; text-decoration:none; }
+a:hover{color:orange; text-decoration:underline;}
+
+#divisao1{
+	border: 2px orange dotted;
+}
+#fuscao{
+	text-align:center;
+}
+#cataraca{
+	font-weight:bolder;
+}
+
+
+
+
+
+
+
